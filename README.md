@@ -1,5 +1,4 @@
-![UML Diagrama](gerenciadorDeBiblioteca/Captura de tela 2024-08-28 192220.png)
-/Captura de tela 2024-08-28 192220.png)
+![UML Diagrama](Captura de tela 2024-08-28 192220.png)
 ## 1. Documentação das Classes e Métodos
 
 ### **Classe `ItemBiblioteca`**
