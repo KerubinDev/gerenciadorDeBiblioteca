@@ -96,7 +96,7 @@
 
 ### **Instalação**
 1. **Verifique a instalação do Python**:
-   - No terminal, execute: `python --version` ou `python3 --version`.
+   - No terminal, execute: `python3 --version`.
    - Se Python não estiver instalado, baixe-o de [python.org](https://www.python.org/downloads/).
 
 2. **Instale Tkinter no Linux (se necessário)**:
@@ -105,7 +105,7 @@
 ### **Inicialização**
 1. **Execute o programa**:
    - Navegue até o diretório onde o script está salvo.
-   - Execute o script com o comando: `python nome_do_arquivo.py` ou `python3 nome_do_arquivo.py`.
+   - Execute o script com o comando: `python3 main.py`.
 
 ### **Uso**
 - **Tela Principal**: Escolha entre cadastrar livros, cadastrar usuários, visualizar livros ou visualizar usuários.
@@ -114,5 +114,3 @@
 - **Visualização de Livros**: Veja a lista de livros cadastrados.
 - **Visualização de Usuários**: Veja a lista de usuários cadastrados.
 - **Voltar**: Use o botão "Voltar" em qualquer tela para retornar à tela principal.
-
-Essa documentação oferece uma visão detalhada do funcionamento e uso do programa de gerenciamento de biblioteca. Se precisar de mais alguma informação ou ajuste, estou aqui para ajudar!
