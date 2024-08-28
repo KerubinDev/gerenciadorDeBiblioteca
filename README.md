@@ -1,5 +1,5 @@
-Aqui está uma documentação detalhada para o programa de gerenciamento de biblioteca que você forneceu.
-
+![]{(gerenciadorDeBiblioteca
+/Captura de tela 2024-08-28 192220.png)
 ## 1. Documentação das Classes e Métodos
 
 ### **Classe `ItemBiblioteca`**
